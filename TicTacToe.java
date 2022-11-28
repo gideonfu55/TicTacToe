@@ -7,6 +7,7 @@ public class TicTacToe {
     
     System.out.println("\nLet's play a game of Tic Tac Toe!");
 
+    // Pretty sure this shows 9 blank faces in need of an input from a user. Heh.
     char[][] gameBoard = {
       { '_', '_', '_' },
       { '_', '_', '_' },
